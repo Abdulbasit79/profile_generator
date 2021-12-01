@@ -35,5 +35,5 @@ rl.question('Whats your name? Nicknames are also acceptable :)', (answer) => {
         });
       });
     });
-  });
+  }); 
 });
